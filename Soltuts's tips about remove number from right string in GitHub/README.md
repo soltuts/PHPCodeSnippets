@@ -1,6 +1,6 @@
 # Resources
-[Title] Soltuts's tips about remove number from right string in GitHub
-[SolTuts] https://soltuts.com/how-to-remove-number-from-right-in-php/
+- [Title] Soltuts's tips about remove number from right string in GitHub
+- [SolTuts] https://soltuts.com/how-to-remove-number-from-right-in-php/
 
 # Contributing
 There are many ways you can contribute to Soltuts! 
