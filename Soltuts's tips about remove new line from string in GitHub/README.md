@@ -1,6 +1,6 @@
 "# Resources
-[Title] Soltuts's tips about remove new line from string in GitHub
-[SolTuts] https://soltuts.com/how-to-remove-new-line-from-string-php/
+- [Title] Soltuts's tips about remove new line from string in GitHub
+- [SolTuts] https://soltuts.com/how-to-remove-new-line-from-string-php/
 
 # Contributing
 There are many ways you can contribute to Soltuts! 
