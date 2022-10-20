@@ -16,4 +16,5 @@
 
 /*
 Read more from https://soltuts.com/how-to-compare-two-array-values-in-php/
+*/
 ?> 

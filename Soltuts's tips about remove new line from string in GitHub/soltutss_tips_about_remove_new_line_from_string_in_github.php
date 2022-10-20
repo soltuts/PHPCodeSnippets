@@ -12,4 +12,5 @@ tutorials";
 
 /*
 Read more from https://soltuts.com/how-to-remove-new-line-from-string-php/
+*/
 ?> 

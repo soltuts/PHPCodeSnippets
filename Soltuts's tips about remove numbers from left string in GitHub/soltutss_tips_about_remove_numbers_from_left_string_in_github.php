@@ -12,4 +12,5 @@
 
 /*
 Read more from https://soltuts.com/how-to-remove-numbers-from-left-in-php/
+*/
 ?> 
